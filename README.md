@@ -1,7 +1,5 @@
 # Network IDS Lab – Suricata Detection Project
 
-Author: Shamain Greaves
-
 ## Project Overview
 This project demonstrates a network intrusion detection lab built using Suricata, Ubuntu, Kali Linux, and VirtualBox.
 
@@ -205,3 +203,11 @@ The alerts were written to the Suricata log file:
 These alerts confirmed that the IDS was successfully inspecting network traffic and detecting reconnaissance activity generated during the attack simulation.
 
 This demonstrates how IDS platforms such as Suricata can help security teams detect early stages of an attack, including reconnaissance and network probing.
+
+# Author
+
+Shamain Greaves  
+Cybersecurity Analyst Portfolio
+
+GitHub Portfolio:  
+https://github.com/shamaingreaves/cybersecurity-portfolio
